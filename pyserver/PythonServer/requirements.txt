@@ -1,0 +1,5 @@
+nselib==0.7
+nsepython==2.8
+flask-cors==4.0.1
+pandas==2.2.2
+gunicorn==20.1.0

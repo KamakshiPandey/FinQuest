@@ -1,0 +1,33 @@
+@keyframes bulgeIn {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.bulge-in {
+    animation: bulgeIn 0.5s ease-in-out;
+}
+.video-container {
+    position: relative;
+    /* width: calc(100%-60px); */
+    /* height: calc(100%-70px); */
+    height: 100%;
+    /* overflow: hidden; */
+}
+
+/* .video-container video { */
+    /* width: 100%; */
+    /* height: auto; */
+    /* max-height: 100%; */
+    /* display: block; */
+    /* object-fit: contain; Ensures the video maintains aspect ratio/ */
+/* } */

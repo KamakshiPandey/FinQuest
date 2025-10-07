@@ -1,0 +1,243 @@
+{
+    "warnings": [
+        "limit is higher than your plan allows"
+    ],
+    "meta": {
+        "found": 336,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "966f3576-6e74-4876-9cd2-a7bc38542d26",
+            "title": "United Breweries : Regulation 30 SEBI (LODR) Regulations 2015",
+            "description": "To\n            \n          \n          \n            \n              May 07, 2024\n            \n          \n        \n        \n          \n            \n ...",
+            "keywords": "Markets",
+            "snippet": "To May 07, 2024 BSE Limited National Stock Exchange of India Limited Corporate Relationship Department Listing Departments, Phiroze Jeejeebhoy Towers Exchange P...",
+            "url": "https://www.marketscreener.com/quote/stock/UNITED-BREWERIES-LIMITED-6493101/news/United-Breweries-Regulation-30-SEBI-LODR-Regulations-2015-Appointment-of-Chief-Financial-Offic-46668816/",
+            "image_url": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "language": "en",
+            "published_at": "2024-05-08T19:25:08.000000Z",
+            "source": "marketscreener.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BSE.NS",
+                    "name": "BSE Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 12.60829,
+                    "sentiment_score": -0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "To May 07, 2024 <em>BSE</em> <em>Limited</em> National Stock Exchange of India Limited Corporate Relationship Department Listing Departments, Phiroze Jeejeebhoy Towers Exchange Plaza, 5th Floor, P. No.",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UBL.NS",
+                    "name": "United Breweries Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 83.68317,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Thanking You,\n\nFor <em>UNITED</em> <em>BREWERIES</em> <em>LIMITED</em>\n\nDigitally signed by VIVEK GUPTA\n\nVIVEK GUPTA Date: 2024.05.07 19:58:35 +05'30'\n\n_____________________________\n\nVIVEK GUPTA\n\nManaging Director & Chief Executive Officer\n\nDIN: 10311134\n\nRegistered & Corporate Office: UB Tower, UB City, #24, Vittal Mallya Road, Bengaluru - 560 001.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>United</em> <em>Breweries</em> : Regulation 30 SEBI (LODR) Regulations 2015",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UBL.BO",
+                    "name": "United Breweries Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 90.71748,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Thanking You,\n\nFor <em>UNITED</em> <em>BREWERIES</em> <em>LIMITED</em>\n\nDigitally signed by VIVEK GUPTA\n\nVIVEK GUPTA Date: 2024.05.07 19:58:35 +05'30'\n\n_____________________________\n\nVIVEK GUPTA\n\nManaging Director & Chief Executive Officer\n\nDIN: 10311134\n\nRegistered & Corporate Office: UB Tower, UB City, #24, Vittal Mallya Road, Bengaluru - 560 001.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>United</em> <em>Breweries</em> : Regulation 30 SEBI (LODR) Regulations 2015",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ISTLTD.BO",
+                    "name": "IST Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.317328,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "The Board meeting commenced at 14.00 hrs (<em>IST</em>). and concluded at 19.50 hrs (<em>IST</em>).\n\nPlease take the above information on record.",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "7beae37a-a36a-48bb-ac9a-55f735109c51",
+            "title": "United Breweries : Regulation 30 SEBI (LODR) Regulations 2015",
+            "description": "To\n            \n          \n          \n            \n              May 07, 2024\n            \n          \n        \n        \n          \n            \n ...",
+            "keywords": "Markets",
+            "snippet": "To May 07, 2024 BSE Limited National Stock Exchange of India Limited Corporate Relationship Department Listing Departments, Phiroze Jeejeebhoy Towers Exchange P...",
+            "url": "https://www.marketscreener.com/quote/stock/UNITED-BREWERIES-LIMITED-6493101/news/United-Breweries-Regulation-30-SEBI-LODR-Regulations-2015-Appointment-of-Company-Secretary-46668806/",
+            "image_url": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "language": "en",
+            "published_at": "2024-05-08T19:21:09.000000Z",
+            "source": "marketscreener.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BSE.NS",
+                    "name": "BSE Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 11.870308,
+                    "sentiment_score": -0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "To May 07, 2024 <em>BSE</em> <em>Limited</em> National Stock Exchange of India Limited Corporate Relationship Department Listing Departments, Phiroze Jeejeebhoy Towers Exchange Plaza, 5th Floor, P. No.",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UBL.NS",
+                    "name": "United Breweries Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 82.46986,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Thanking You,\n\nFor <em>UNITED</em> <em>BREWERIES</em> <em>LIMITED</em>\n\nDigitally signed by VIVEK GUPTA\n\nVIVEK GUPTA Date: 2024.05.07 19:59:52 +05'30'\n\nVIVEK GUPTA\n\nManaging Director & Chief Executive Officer\n\nDIN: 10311134\n\nRegistered & Corporate Office: UB Tower, UB City, #24, Vittal Mallya Road, Bengaluru - 560 001.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>United</em> <em>Breweries</em> : Regulation 30 SEBI (LODR) Regulations 2015",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UBL.BO",
+                    "name": "United Breweries Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 89.05516,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Thanking You,\n\nFor <em>UNITED</em> <em>BREWERIES</em> <em>LIMITED</em>\n\nDigitally signed by VIVEK GUPTA\n\nVIVEK GUPTA Date: 2024.05.07 19:59:52 +05'30'\n\nVIVEK GUPTA\n\nManaging Director & Chief Executive Officer\n\nDIN: 10311134\n\nRegistered & Corporate Office: UB Tower, UB City, #24, Vittal Mallya Road, Bengaluru - 560 001.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>United</em> <em>Breweries</em> : Regulation 30 SEBI (LODR) Regulations 2015",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ISTLTD.BO",
+                    "name": "IST Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.688753,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "The Board meeting commenced at 14.00 hrs (<em>IST</em>). and concluded at 19.50 hrs (<em>IST</em>).\n\nPlease take the above information on record.",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "a220de17-8856-43d4-bcf8-8c94dd0d10db",
+            "title": "Dow Gains 150 Points; Emerson Electric Earnings Top Views - Emerson Electric (NYSE:EMR)",
+            "description": "",
+            "keywords": "",
+            "snippet": "Loading... Loading...\n\nU.S. stocks traded mixed toward the end of trading, with the Dow Jones index gaining over 150 points on Wednesday.\n\nThe Dow traded up 0.4...",
+            "url": "https://www.benzinga.com/news/earnings/24/05/38710564/dow-gains-150-points-emerson-electric-earnings-top-views",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2024/05/08/Wall-Street-Sign-With-Christmas-Tree-Lig.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2024-05-08T18:41:36.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "^BSESN",
+                    "name": "S&P BSE SENSEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 39.5883,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Asia Pacific Markets\n\nAsian markets closed lower on Wednesday, with Japan's Nikkei falling 1.63%, China's Composite Index declining 0.61%, Hong Kong's Hang Seng Index dipping 0.90% and India's <em>S</em>&<em>P</em> <em>BSE</em> <em>Sensex</em> falling 0.1%.\n\nEconomics\n\nMortgage applications in the U.S. increased by 2.6% from the prior week in the period ending May 3.",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,7890 @@
+[
+  {
+    "symbol": "3PLAND",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "AAATECH",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "20MICRONS",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "3IINFOLTD",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "5PAISA",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "3MINDIA",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "63MOONS",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "A2ZINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "21STCENMGM",
+    "industry": "Other Capital Market related Services"
+  },
+  {
+    "symbol": "360ONE",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "AAREYDRUGS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AARON",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "AARTECH",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "AAKASH",
+    "industry": "Offshore Support Solution Drilling"
+  },
+  {
+    "symbol": "AARTIDRUGS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AARTISURF",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "AARVEEDEN",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "AARTIPHARM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AARTIIND",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "AARVI",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "AAVAS",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "ABAN",
+    "industry": "Offshore Support Solution Drilling"
+  },
+  {
+    "symbol": "ABBOTINDIA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ABB",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "ABSLAMC",
+    "industry": "Asset Management Company"
+  },
+  {
+    "symbol": "ABFRL",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "ACCELYA",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "ACC",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "ABMINTLLTD",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "ACEINTEG",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "ACCURACY",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "ACE",
+    "industry": "Construction Vehicles"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "industry": "Port & Port services"
+  },
+  {
+    "symbol": "ACL",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "industry": "Power Distribution"
+  },
+  {
+    "symbol": "ACI",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "ADANIENT",
+    "industry": "Trading - Minerals"
+  },
+  {
+    "symbol": "ACLGATI",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "ADROITINFO",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "ADORWELD",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "ADL",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "ADFFOODS",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "ADVENZYMES",
+    "industry": "Biotechnology"
+  },
+  {
+    "symbol": "ADVANIHOTR",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "AEROFLEX",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "ADSL",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "AEGISCHEM",
+    "industry": "Trading - Gas"
+  },
+  {
+    "symbol": "AETHER",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "AFFLE",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "AGRITECH",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "AGROPHOS",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "AGI",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "AGARIND",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "AHL",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "AHLADA",
+    "industry": "Furniture Home Furnishing"
+  },
+  {
+    "symbol": "AGSTRA",
+    "industry": "Financial Technology (Fintech)"
+  },
+  {
+    "symbol": "AHLEAST",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "AIAENG",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "AHLUCONT",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "AJOONI",
+    "industry": "Animal Feed"
+  },
+  {
+    "symbol": "AIROLAM",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "AIIL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "AJANTPHARM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AKG",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "AJMERA",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "AKASH",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "AIRAN",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "AKSHAR",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "AKSHOPTFBR",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "AKI",
+    "industry": "Leather And Leather Products"
+  },
+  {
+    "symbol": "AKZOINDIA",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "AKSHARCHEM",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "ALANKIT",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "ALEMBICLTD",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ALICON",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "ALBERTDAVD",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ALKALI",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "ALOKINDS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "ALKYLAMINE",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "ALKEM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ALPSINDUS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "ALLCARGO",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "ALPHAGEO",
+    "industry": "Offshore Support Solution Drilling"
+  },
+  {
+    "symbol": "ALMONDZ",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "ALLSEC",
+    "industry": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)"
+  },
+  {
+    "symbol": "ALPA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AMBICAAGAR",
+    "industry": "Household Products"
+  },
+  {
+    "symbol": "AMBER",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "AMBIKCO",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "AMIORG",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AMDIND",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "AMRUTANJAN",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AMJLAND",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "AMNPLST",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "ANANTRAJ",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ANDHRAPAP",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "ANANDRATHI",
+    "industry": "Financial Products Distributor"
+  },
+  {
+    "symbol": "ANKITMETAL",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "ANIKINDS",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "ANMOL",
+    "industry": "Trading - Coal"
+  },
+  {
+    "symbol": "ANDHRSUGAR",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "ANURAS",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "ANUP",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "ANTGRAPHIC",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "ANGELONE",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "APCL",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "APARINDS",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "APLAPOLLO",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "APCOTEXIND",
+    "industry": "Rubber"
+  },
+  {
+    "symbol": "APEX",
+    "industry": "Seafood"
+  },
+  {
+    "symbol": "APOLLO",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "APLLTD",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "APOLLOPIPE",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "APOLLOTYRE",
+    "industry": "Tyres & Rubber Products"
+  },
+  {
+    "symbol": "APOLSINHOT",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "APTUS",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "APTECHT",
+    "industry": "Education"
+  },
+  {
+    "symbol": "ARE&M",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "ARCHIDPLY",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "ARCHIES",
+    "industry": "Leisure Products"
+  },
+  {
+    "symbol": "ARENTERP",
+    "industry": "Trading - Minerals"
+  },
+  {
+    "symbol": "ARIES",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "ARIHANTCAP",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "AROGRANITE",
+    "industry": "Granites & Marbles"
+  },
+  {
+    "symbol": "ARIHANTSUP",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ARMANFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "ARROWGREEN",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "ARSHIYA",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "ARTEMISMED",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "ARVEE",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "ARSSINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "ARTNIRMAN",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ARVINDFASN",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "ARVIND",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "ASAHISONG",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "ASALCBR",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "ARVSMART",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ASAHIINDIA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "ASAL",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "ASHAPURMIN",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "ASHOKA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "ASHIMASYN",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "ASHIANA",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ASHOKLEY",
+    "industry": "Commercial Vehicles"
+  },
+  {
+    "symbol": "ASHOKAMET",
+    "industry": "Trading - Metals"
+  },
+  {
+    "symbol": "ASIANTILES",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "ASIANENE",
+    "industry": "Oil Equipment & Services"
+  },
+  {
+    "symbol": "ASKAUTOLTD",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "ASTERDM",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "ASIANHOTNR",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "ASMS",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "ASTRAZEN",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ASPINWALL",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "ASTRAL",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "ASTEC",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "ASTRAMICRO",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "ATGL",
+    "industry": "LPG/CNG/PNG/LNG Supplier"
+  },
+  {
+    "symbol": "ASTRON",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "ATUL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "ATAM",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "ATALREAL",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ATULAUTO",
+    "industry": "Commercial Vehicles"
+  },
+  {
+    "symbol": "ATL",
+    "industry": "Port & Port services"
+  },
+  {
+    "symbol": "ATFL",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "ATLANTAA",
+    "industry": "Road Assets - Toll Annuity Hybrid-Annuity"
+  },
+  {
+    "symbol": "AURIONPRO",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "AVALON",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "AURUM",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "AUTOAXLES",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "AUSOMENT",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "AUBANK",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "AVG",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "AVANTIFEED",
+    "industry": "Animal Feed"
+  },
+  {
+    "symbol": "AUTOIND",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "AVADHSUGAR",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "AVROIND",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "AVONMORE",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "AWL",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "AVTNPL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "AWHCL",
+    "industry": "Waste Management"
+  },
+  {
+    "symbol": "AXISBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "AXISCADES",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "AZAD",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "BAIDFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "AYMSYNTEX",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "BAJAJELEC",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "BAFNAPH",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BAJAJCON",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "industry": "2/3 Wheelers"
+  },
+  {
+    "symbol": "AXITA",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "BAJAJHCARE",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BAGFILMS",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "BAJAJHLDNG",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "BAJAJHIND",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "BALAXI",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BAJEL",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "BALAMINES",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "BALAJITELE",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "BALKRISHNA",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "BALMLAWRIE",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "BANARBEADS",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "BALUFORGE",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "BALRAMCHIN",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "BALKRISIND",
+    "industry": "Tyres & Rubber Products"
+  },
+  {
+    "symbol": "BANG",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "BALPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "BANARISUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "BANKINDIA",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "BANCOINDIA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "BANSWRAS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "BARBEQUE",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "BASF",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "BANKA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "BBOX",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "BATAINDIA",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "BASML",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "BBTCL",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "BAYERCROP",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "BBTC",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "BBL",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "BDL",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "BCONCEPTS",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "BCLIND",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "BEARDSELL",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "BECTORFOOD",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "BEL",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "BEDMUTHA",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "BERGEPAINT",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "BEML",
+    "industry": "Construction Vehicles"
+  },
+  {
+    "symbol": "BEPL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "BESTAGRO",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "BFUTILITIE",
+    "industry": "Road Assets - Toll Annuity Hybrid-Annuity"
+  },
+  {
+    "symbol": "BHAGCHEM",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "BFINVEST",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "BHARATGEAR",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "BHANDARI",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "BHARATFORG",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "BHAGERIA",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "BHAGYANGR",
+    "industry": "Copper"
+  },
+  {
+    "symbol": "BHARATWIRE",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "BHARATRAS",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "BGRENERGY",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "BIGBLOC",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "BIL",
+    "industry": "Leather And Leather Products"
+  },
+  {
+    "symbol": "BHARTIHEXA",
+    "industry": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "symbol": "BINANIIND",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "BHEL",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "BIKAJI",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "BIOCON",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "industry": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "symbol": "BIRLACABLE",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "BIRLACORPN",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "BIRLAMONEY",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "BIOFILCHEM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BLBLIMITED",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "BLAL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "BLKASHYAP",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "BLS",
+    "industry": "Tour Travel Related Services"
+  },
+  {
+    "symbol": "BKMINDST",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "BLISSGVS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BLSE",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "BLUEDART",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "BLUECHIP",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "BODALCHEM",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "BOHRAIND",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "BOROLTD",
+    "industry": "Glass - Consumer"
+  },
+  {
+    "symbol": "BLUEJET",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BPL",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "BPCL",
+    "industry": "Refineries & Marketing"
+  },
+  {
+    "symbol": "BORORENEW",
+    "industry": "Glass - Industrial"
+  },
+  {
+    "symbol": "BOMDYEING",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "BRIGADE",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "BSE",
+    "industry": "Exchange and Data Platform"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "BSHSL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "BROOKS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "BSL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "BRNL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "BTML",
+    "industry": "Digital Entertainment"
+  },
+  {
+    "symbol": "BURNPUR",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "BUTTERFLY",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "BSOFT",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "BYKE",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "BVCL",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "CAMPUS",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "CAMLINFINE",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "CANFINHOME",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "CAPACITE",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "CAMS",
+    "industry": "Depositories Clearing Houses and Other Intermediaries"
+  },
+  {
+    "symbol": "CALSOFT",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "CANTABIL",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "CAPLIPOINT",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "CANBK",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "CAPITALSFB",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "CARBORUNIV",
+    "industry": "Abrasives & Bearings"
+  },
+  {
+    "symbol": "CAPTRUST",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "CAREERP",
+    "industry": "Education"
+  },
+  {
+    "symbol": "CARERATING",
+    "industry": "Ratings"
+  },
+  {
+    "symbol": "CARTRADE",
+    "industry": "E-Retail/ E-Commerce"
+  },
+  {
+    "symbol": "CARYSIL",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "CASTROLIND",
+    "industry": "Lubricants"
+  },
+  {
+    "symbol": "CDSL",
+    "industry": "Depositories Clearing Houses and Other Intermediaries"
+  },
+  {
+    "symbol": "CCHHL",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "CCL",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "CELEBRITY",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "CEATLTD",
+    "industry": "Tyres & Rubber Products"
+  },
+  {
+    "symbol": "CENTENKA",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "CELLO",
+    "industry": "Houseware"
+  },
+  {
+    "symbol": "CENTRALBK",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "CENTURYPLY",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "CENTRUM",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "CENTUM",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "CENTEXT",
+    "industry": "Aluminium Copper & Zinc Products"
+  },
+  {
+    "symbol": "CERA",
+    "industry": "Sanitary Ware"
+  },
+  {
+    "symbol": "CEREBRAINT",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "CENTURYTEX",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "CESC",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "CGCL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "CHALET",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "CHEMFAB",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "CHEMCON",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "CHEMPLASTS",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "CHENNPETRO",
+    "industry": "Refineries & Marketing"
+  },
+  {
+    "symbol": "CHEMBOND",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "CGPOWER",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "CHAMBLFERT",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "CHOICEIN",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "CHEVIOT",
+    "industry": "Jute & Jute Products"
+  },
+  {
+    "symbol": "CHOLAHLDNG",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "CIEINDIA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "CIGNITITEC",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "CINELINE",
+    "industry": "Film Production Distribution & Exhibition"
+  },
+  {
+    "symbol": "CINEVISTA",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "CIPLA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "CLEAN",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "CLEDUCATE",
+    "industry": "Education"
+  },
+  {
+    "symbol": "COCHINSHIP",
+    "industry": "Ship Building & Allied Services"
+  },
+  {
+    "symbol": "CMSINFO",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "CLSEL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "COALINDIA",
+    "industry": "Coal"
+  },
+  {
+    "symbol": "COFFEEDAY",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "COASTCORP",
+    "industry": "Seafood"
+  },
+  {
+    "symbol": "COFORGE",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "COMPUSOFT",
+    "industry": "Education"
+  },
+  {
+    "symbol": "CONCORDBIO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "COLPAL",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "CONFIPET",
+    "industry": "LPG/CNG/PNG/LNG Supplier"
+  },
+  {
+    "symbol": "COMSYN",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "CONCOR",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "COROMANDEL",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "CONSOFINVT",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "CONTROLPR",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "CORDSCABLE",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "CORALFINAC",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "CRAFTSMAN",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "COSMOFIRST",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "COUNCODOS",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "CREATIVE",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "CREATIVEYE",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "CREDITACC",
+    "industry": "Microfinance Institutions"
+  },
+  {
+    "symbol": "CRISIL",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "CREST",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "CROWN",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "CROMPTON",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "CSLFINANCE",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "CSBBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "CTE",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "CUPID",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "CUB",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "CYBERTECH",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "CUBEXTUB",
+    "industry": "Aluminium Copper & Zinc Products"
+  },
+  {
+    "symbol": "CYIENT",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "CYBERMEDIA",
+    "industry": "Electronic Media"
+  },
+  {
+    "symbol": "DABUR",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "DALBHARAT",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "DANGEE",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "DALMIASUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "CYIENTDLM",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "DATAMATICS",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "DAMODARIND",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "DATAPATTNS",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "DAVANGERE",
+    "industry": "Diversified FMCG"
+  },
+  {
+    "symbol": "DBSTOCKBRO",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "DBCORP",
+    "industry": "Print Media"
+  },
+  {
+    "symbol": "DCBBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "DBL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "DBOL",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "DBREALTY",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "DCAL",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "DCM",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "DCI",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "DCMFINSERV",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "DCW",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "DCMSRIND",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "DCMSHRIRAM",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "DECCANCE",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "DCXINDIA",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "DCMNVL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "DEEPENR",
+    "industry": "Oil Exploration & Production"
+  },
+  {
+    "symbol": "DEEPINDS",
+    "industry": "Offshore Support Solution Drilling"
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "DEEPAKFERT",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "DELHIVERY",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "DELPHIFX",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "DELTACORP",
+    "industry": "Amusement Parks/ Other Recreation"
+  },
+  {
+    "symbol": "DELTAMAGNT",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "DEN",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "DEVIT",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "DENORA",
+    "industry": "Electrodes & Refractories"
+  },
+  {
+    "symbol": "DGCONTENT",
+    "industry": "Advertising & Media Agencies"
+  },
+  {
+    "symbol": "DEVYANI",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "DHANI",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "DHAMPURSUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "DHANBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "DHANUKA",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "DHARMAJ",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "DHRUV",
+    "industry": "Consulting Services"
+  },
+  {
+    "symbol": "DHUNINV",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "DIACABS",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "DIAMINESQ",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "DIAMONDYD",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "DIL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "DICIND",
+    "industry": "Printing Inks"
+  },
+  {
+    "symbol": "DIGISPICE",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "DISHTV",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "DIGIDRIVE",
+    "industry": "E-Retail/ E-Commerce"
+  },
+  {
+    "symbol": "DIVGIITTS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "DIGJAMLMTD",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "DIXON",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "DIVISLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "DLF",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "DMART",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "DLINKINDIA",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "DMCC",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "DJML",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "DOLATALGO",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "DOLPHIN",
+    "industry": "Offshore Support Solution Drilling"
+  },
+  {
+    "symbol": "DOLLAR",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "DODLA",
+    "industry": "Dairy Products"
+  },
+  {
+    "symbol": "DOMS",
+    "industry": "Stationary"
+  },
+  {
+    "symbol": "DNAMEDIA",
+    "industry": "Electronic Media"
+  },
+  {
+    "symbol": "DPABHUSHAN",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "DONEAR",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "DREDGECORP",
+    "industry": "Dredging"
+  },
+  {
+    "symbol": "DPSCLTD",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "DRCSYSTEMS",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "DPWIRES",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "DREAMFOLKS",
+    "industry": "Airport & Airport services"
+  },
+  {
+    "symbol": "DRREDDY",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "DWARKESH",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "DYCL",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "DVL",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "DTIL",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "DUCON",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "DSSL",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "DYNAMATECH",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "DYNPRO",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "E2E",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "ECLERX",
+    "industry": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)"
+  },
+  {
+    "symbol": "EASEMYTRIP",
+    "industry": "Tour Travel Related Services"
+  },
+  {
+    "symbol": "EIFFL",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "EDUCOMP",
+    "industry": "Education"
+  },
+  {
+    "symbol": "EDELWEISS",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "industry": "2/3 Wheelers"
+  },
+  {
+    "symbol": "EIHOTEL",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "EIMCOELECO",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "EIHAHOTELS",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "EIDPARRY",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "ELECON",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "ELIN",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "EKC",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "ELDEHSG",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ELECTHERM",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "ELGIRUBCO",
+    "industry": "Rubber"
+  },
+  {
+    "symbol": "EMAMILTD",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "ELECTCAST",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "ELGIEQUIP",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "EMAMIPAP",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "EMMBI",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "EMIL",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "EMSLIMITED",
+    "industry": "Waste Management"
+  },
+  {
+    "symbol": "EMAMIREAL",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ENDURANCE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "EMKAY",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "ENGINERSIN",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "EMUDHRA",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "ENERGYDEV",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "EPACK",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "ENTERO",
+    "industry": "Pharmacy Retail"
+  },
+  {
+    "symbol": "EPIGRAL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "EQUITASBNK",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "EROSMEDIA",
+    "industry": "Film Production Distribution & Exhibition"
+  },
+  {
+    "symbol": "EPL",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "ERIS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ESABINDIA",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "EQUIPPP",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "ENIL",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "ESAFSFB",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "ETHOSLTD",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "ESSARSHPNG",
+    "industry": "Shipping"
+  },
+  {
+    "symbol": "ESCORTS",
+    "industry": "Tractors"
+  },
+  {
+    "symbol": "ESTER",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "ESSENTIA",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "EVERESTIND",
+    "industry": "Other Construction Materials"
+  },
+  {
+    "symbol": "EVEREADY",
+    "industry": "Household Products"
+  },
+  {
+    "symbol": "EXCEL",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "EUROTEXIND",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "EXCELINDUS",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "EXXARO",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "EXICOM",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "EXIDEIND",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "FAIRCHEMOR",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "EXPLEOSOL",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "FACT",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "FAZE3Q",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "FDC",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "FCL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "FCONSUMER",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "FELDVR",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "FEL",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "FCSSOFT",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "FEDFINA",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "FIBERWEB",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "FIEMIND",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "FILATEX",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "FINEORG",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "FLAIR",
+    "industry": "Stationary"
+  },
+  {
+    "symbol": "FIVESTAR",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "FINCABLES",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "FINPIPE",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "FINOPB",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "FLEXITUFF",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "FLFL",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "FLUOROCHEM",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "FOCUS",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "FOODSIN",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "FORTIS",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "FMNL",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "FMGOETZE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "FOSECOIND",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "FORCEMOT",
+    "industry": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "symbol": "FSL",
+    "industry": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)"
+  },
+  {
+    "symbol": "FSC",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "FUSION",
+    "industry": "Microfinance Institutions"
+  },
+  {
+    "symbol": "GABRIEL",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "GAEL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "GAIL",
+    "industry": "Gas Transmission/Marketing"
+  },
+  {
+    "symbol": "GALLANTT",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "GALAXYSURF",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "GANDHITUBE",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "GANECOS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "GANESHBE",
+    "industry": "Oil Storage & Transportation"
+  },
+  {
+    "symbol": "GANDHAR",
+    "industry": "Lubricants"
+  },
+  {
+    "symbol": "GANESHHOUC",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "GAYAHWS",
+    "industry": "Road Assets - Toll Annuity Hybrid-Annuity"
+  },
+  {
+    "symbol": "GATEWAY",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "GATECHDVR",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "GANGAFORGE",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "GATECH",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "GEEKAYWIRE",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "GENCON",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "GEECEE",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "GANGESSECU",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "GARFIBRES",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "GENSOL",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "GENUSPAPER",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "GENESYS",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "GESHIP",
+    "industry": "Shipping"
+  },
+  {
+    "symbol": "GEPIL",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "GFLLIMITED",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "GEOJITFSL",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "GENUSPOWER",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "GET&D",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "GICRE",
+    "industry": "General Insurance"
+  },
+  {
+    "symbol": "GHCL",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "GICHSGFIN",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "GILLETTE",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "GILLANDERS",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "GINNIFILA",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "GHCLTEXTIL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "GIPCL",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "GLAXO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "GLAND",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "GKWLIMITED",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "GLOBAL",
+    "industry": "Education"
+  },
+  {
+    "symbol": "GLENMARK",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "GLOBE",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "GLOBALVECT",
+    "industry": "Airline"
+  },
+  {
+    "symbol": "GLOBUSSPR",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "GMDCLTD",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "GLOSTERLTD",
+    "industry": "Jute & Jute Products"
+  },
+  {
+    "symbol": "GMBREW",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "GMRINFRA",
+    "industry": "Airport & Airport services"
+  },
+  {
+    "symbol": "GLS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "GLFL",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "GMMPFAUDLR",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "GNA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "GNFC",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "GMRP&UI",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "GOACARBON",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "GOCLCORP",
+    "industry": "Explosives"
+  },
+  {
+    "symbol": "GODFRYPHLP",
+    "industry": "Cigarettes & Tobacco Products"
+  },
+  {
+    "symbol": "GOENKA",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "GODREJCP",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "GOCOLORS",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "GODHA",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "GODREJIND",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "GODREJAGRO",
+    "industry": "Animal Feed"
+  },
+  {
+    "symbol": "GODREJPROP",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "GOKEX",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "GOKULAGRO",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "GOKUL",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "GOLDTECH",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "GOLDIAM",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "GOPAL",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "GPIL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "GOODLUCK",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "GPPL",
+    "industry": "Port & Port services"
+  },
+  {
+    "symbol": "GPTINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "GOYALALUM",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "GPTHEALTH",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "GRAPHITE",
+    "industry": "Electrodes & Refractories"
+  },
+  {
+    "symbol": "GRANULES",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "GRAVITA",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "GREAVESCOT",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "GRASIM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "GREENLAM",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "GREENPANEL",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "GREENPLY",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "GRINDWELL",
+    "industry": "Abrasives & Bearings"
+  },
+  {
+    "symbol": "GREENPOWER",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "GRINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "GROBTEA",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "GRMOVER",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "GRPLTD",
+    "industry": "Rubber"
+  },
+  {
+    "symbol": "GRSE",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "GRWRHITECH",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "GSFC",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "GSPL",
+    "industry": "Gas Transmission/Marketing"
+  },
+  {
+    "symbol": "GSLSU",
+    "industry": "Granites & Marbles"
+  },
+  {
+    "symbol": "GTLINFRA",
+    "industry": "Telecom - Infrastructure"
+  },
+  {
+    "symbol": "GSS",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "GTPL",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "GTECJAINX",
+    "industry": "E-Learning"
+  },
+  {
+    "symbol": "GUFICBIO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "GTL",
+    "industry": "Other Telecom Services"
+  },
+  {
+    "symbol": "GUJALKALI",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "GUJGASLTD",
+    "industry": "LPG/CNG/PNG/LNG Supplier"
+  },
+  {
+    "symbol": "GUJAPOLLO",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "GULFOILLUB",
+    "industry": "Lubricants"
+  },
+  {
+    "symbol": "GVKPIL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "GULFPETRO",
+    "industry": "Lubricants"
+  },
+  {
+    "symbol": "GULPOLY",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "HAL",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "GUJRAFFIA",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "HAPPYFORGE",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "HAPPSTMNDS",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "GVPTECH",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "HARRMALAYA",
+    "industry": "Rubber"
+  },
+  {
+    "symbol": "HARDWYN",
+    "industry": "Furniture Home Furnishing"
+  },
+  {
+    "symbol": "HARIOMPIPE",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "HATHWAY",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "HARSHA",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "HAVELLS",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "HATSUN",
+    "industry": "Dairy Products"
+  },
+  {
+    "symbol": "HBLPOWER",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "HAVISHA",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "HBSL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "HCC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "HCLTECH",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "HCL-INSYS",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "HCG",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "HDFCAMC",
+    "industry": "Asset Management Company"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "industry": "Life Insurance"
+  },
+  {
+    "symbol": "HDIL",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "HEADSUP",
+    "industry": "Trading - Textile Products"
+  },
+  {
+    "symbol": "HECPROJECT",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "HEG",
+    "industry": "Electrodes & Refractories"
+  },
+  {
+    "symbol": "HEMIPROP",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "HEIDELBERG",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "HERCULES",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "HERITGFOOD",
+    "industry": "Dairy Products"
+  },
+  {
+    "symbol": "HERANBA",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "industry": "2/3 Wheelers"
+  },
+  {
+    "symbol": "HEUBACHIND",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "HFCL",
+    "industry": "Telecom - Infrastructure"
+  },
+  {
+    "symbol": "HEXATRADEX",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "HESTERBIO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "HGS",
+    "industry": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)"
+  },
+  {
+    "symbol": "HIKAL",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "HGINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "HIL",
+    "industry": "Furniture Home Furnishing"
+  },
+  {
+    "symbol": "HIMATSEIDE",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "HILTON",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "HINDALCO",
+    "industry": "Aluminium"
+  },
+  {
+    "symbol": "HINDCOMPOS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "HINDCOPPER",
+    "industry": "Copper"
+  },
+  {
+    "symbol": "HINDCON",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "HINDMOTORS",
+    "industry": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "symbol": "HINDPETRO",
+    "industry": "Refineries & Marketing"
+  },
+  {
+    "symbol": "HINDOILEXP",
+    "industry": "Oil Exploration & Production"
+  },
+  {
+    "symbol": "HINDWAREAP",
+    "industry": "Sanitary Ware"
+  },
+  {
+    "symbol": "HIRECT",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "industry": "Diversified FMCG"
+  },
+  {
+    "symbol": "HITECH",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "HLEGLAS",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "HINDZINC",
+    "industry": "Zinc"
+  },
+  {
+    "symbol": "HITECHCORP",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "HISARMETAL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "HITECHGEAR",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "HLVLTD",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "HNDFDS",
+    "industry": "Diversified FMCG"
+  },
+  {
+    "symbol": "HMAAGRO",
+    "industry": "Meat Products including Poultry"
+  },
+  {
+    "symbol": "HMVL",
+    "industry": "Print Media"
+  },
+  {
+    "symbol": "HONAUT",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "HMT",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "HOMEFIRST",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "HONDAPOWER",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "HPAL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "HONASA",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "HPIL",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "HOVS",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "HPL",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "HSCL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "HTMEDIA",
+    "industry": "Print Media"
+  },
+  {
+    "symbol": "HUBTOWN",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "HUDCO",
+    "industry": "Financial Institution"
+  },
+  {
+    "symbol": "HUHTAMAKI",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "HYBRIDFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "IBULHSGFIN",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "ICEMAKE",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "IBREALEST",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "ICIL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "ICDSLTD",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "industry": "Life Insurance"
+  },
+  {
+    "symbol": "ICRA",
+    "industry": "Ratings"
+  },
+  {
+    "symbol": "ICICIGI",
+    "industry": "General Insurance"
+  },
+  {
+    "symbol": "IDEA",
+    "industry": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "symbol": "IDBI",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "IDEAFORGE",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "IDFC",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "IFBAGRO",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "IEX",
+    "industry": "Exchange and Data Platform"
+  },
+  {
+    "symbol": "IEL",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "IFBIND",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "IFGLEXPOR",
+    "industry": "Electrodes & Refractories"
+  },
+  {
+    "symbol": "IIFL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "IFCI",
+    "industry": "Financial Institution"
+  },
+  {
+    "symbol": "IGL",
+    "industry": "LPG/CNG/PNG/LNG Supplier"
+  },
+  {
+    "symbol": "IGARASHI",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "IGPL",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "IIFL-RE",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "IIFLSEC",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "IITL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "IMAGICAA",
+    "industry": "Amusement Parks/ Other Recreation"
+  },
+  {
+    "symbol": "IKIO",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "IMPAL",
+    "industry": "Trading - Auto Components"
+  },
+  {
+    "symbol": "IL&FSTRANS",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "IMFA",
+    "industry": "Ferro & Silica Manganese"
+  },
+  {
+    "symbol": "IL&FSENGG",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "INCREDIBLE",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "INDHOTEL",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "INDIACEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "INDIAGLYCO",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "INDBANK",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "INDIAMART",
+    "industry": "Internet & Catalogue Retail"
+  },
+  {
+    "symbol": "IMPEXFERRO",
+    "industry": "Ferro & Silica Manganese"
+  },
+  {
+    "symbol": "INDIANB",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "INDIANCARD",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "INDNIPPON",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "INDIASHLTR",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "INDIGO",
+    "industry": "Airline"
+  },
+  {
+    "symbol": "INDOAMIN",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "INDIANHUME",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "INDIGOPNTS",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "INDOBORAX",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "INDORAMA",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "INDOSTAR",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "INDOCO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "INDOTHAI",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "INDOTECH",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "INDSWFTLTD",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "INDOWIND",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "INDRAMEDCO",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "INDSWFTLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "INDTERRAIN",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "INFOBEAN",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "INFIBEAM",
+    "industry": "Financial Technology (Fintech)"
+  },
+  {
+    "symbol": "INDUSTOWER",
+    "industry": "Telecom - Infrastructure"
+  },
+  {
+    "symbol": "INFY",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "INOXWIND",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "INNOVACAP",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "INOXINDIA",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "INSECTICID",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "INTELLECT",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "INOXGREEN",
+    "industry": "Other Utilities"
+  },
+  {
+    "symbol": "INGERRAND",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "INTENTECH",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "IOB",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "INTLCONV",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "IOC",
+    "industry": "Refineries & Marketing"
+  },
+  {
+    "symbol": "INVENTURE",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "IOLCP",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "IONEXCHANG",
+    "industry": "Water Supply & Management"
+  },
+  {
+    "symbol": "IPCALAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "IPL",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "IRB",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "IRCON",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "IRFC",
+    "industry": "Financial Institution"
+  },
+  {
+    "symbol": "IRCTC",
+    "industry": "Tour Travel Related Services"
+  },
+  {
+    "symbol": "IREDA",
+    "industry": "Financial Institution"
+  },
+  {
+    "symbol": "IRISDOREME",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "IRIS",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "ISEC",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "IRMENERGY",
+    "industry": "LPG/CNG/PNG/LNG Supplier"
+  },
+  {
+    "symbol": "ISMTLTD",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "ITDCEM",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "ISGEC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "ITI",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "ITC",
+    "industry": "Diversified FMCG"
+  },
+  {
+    "symbol": "ISFT",
+    "industry": "E-Retail/ E-Commerce"
+  },
+  {
+    "symbol": "ITDC",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "IVP",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "IZMO",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "IVC",
+    "industry": "Asset Management Company"
+  },
+  {
+    "symbol": "IWEL",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "JAGSNPHARM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "JAGRAN",
+    "industry": "Print Media"
+  },
+  {
+    "symbol": "J&KBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "JAICORPLTD",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "JAIBALAJI",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "JAYAGROGN",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "JAYSREETEA",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "JAYBARMARU",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "JASH",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "JBCHEPHARM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "JBMA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "JAIPURKURT",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "JAYNECOIND",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "JAMNAAUTO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "JCHAC",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "JGCHEM",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "JETAIRWAYS",
+    "industry": "Airline"
+  },
+  {
+    "symbol": "JETFREIGHT",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "JINDALSAW",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "JINDALPHOT",
+    "industry": "Household Products"
+  },
+  {
+    "symbol": "JHS",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "JINDWORLD",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "JINDRILL",
+    "industry": "Offshore Support Solution Drilling"
+  },
+  {
+    "symbol": "JINDALPOLY",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "JISLDVREQS",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "JKCEMENT",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "JIOFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "JISLJALEQS",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "JITFINFRA",
+    "industry": "Water Supply & Management"
+  },
+  {
+    "symbol": "JKLAKSHMI",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "JKPAPER",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "JKIL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "JKTYRE",
+    "industry": "Tyres & Rubber Products"
+  },
+  {
+    "symbol": "JLHL",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "JMA",
+    "industry": "Trading - Auto Components"
+  },
+  {
+    "symbol": "JPASSOCIAT",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "JPPOWER",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "JMFINANCIL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "JNKINDIA",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "JOCIL",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "JSFB",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "JPOLYINVST",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "JSL",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "JSWENERGY",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "JSWHL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "JSWINFRA",
+    "industry": "Port & Port services"
+  },
+  {
+    "symbol": "JTEKTINDIA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "JUBLINGREA",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "JTLIND",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "JUBLINDS",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "JUSTDIAL",
+    "industry": "Internet & Catalogue Retail"
+  },
+  {
+    "symbol": "JUBLFOOD",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "JUNIPER",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "JWL",
+    "industry": "Railway Wagons"
+  },
+  {
+    "symbol": "JUBLPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "JYOTHYLAB",
+    "industry": "Household Products"
+  },
+  {
+    "symbol": "JYOTICNC",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "JYOTISTRUC",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "KABRAEXTRU",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "KAKATCEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "KAMATHOTEL",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "KALYANI",
+    "industry": "Dealers\uffe2\uff80\uff93Commercial Vehicles Tractors Construction Vehicles"
+  },
+  {
+    "symbol": "KALYANKJIL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "KALYANIFRG",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "KALAMANDIR",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "KAJARIACER",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "KAMOPAINTS",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "KAMDHENU",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "KANORICHEM",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "KANSAINER",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "KAPSTON",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "KANPRPLA",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "KAUSHALYA",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "KANANIIND",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "KARURVYSYA",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "KARMAENG",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "KAVVERITEL",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "KAYA",
+    "industry": "Wellness"
+  },
+  {
+    "symbol": "KAYNES",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "KCPSUGIND",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "KCP",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "KBCGLOBAL",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "KDDL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "KECL",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "KEI",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "KEC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "KEEPLEARN",
+    "industry": "Education"
+  },
+  {
+    "symbol": "KELLTONTEC",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "KERNEX",
+    "industry": "Transport Related Services"
+  },
+  {
+    "symbol": "KHAITANLTD",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "KHADIM",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "KFINTECH",
+    "industry": "Depositories Clearing Houses and Other Intermediaries"
+  },
+  {
+    "symbol": "KEYFINSERV",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "KHANDSE",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "KHAICHEM",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "KESORAMIND",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "KILITCH",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "KICL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "KIMS",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "KIRIINDUS",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "KIRLOSBROS",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "KIOCL",
+    "industry": "Sponge Iron"
+  },
+  {
+    "symbol": "KIRLOSENG",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "KIRLOSIND",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "KINGFA",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "KITEX",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "KIRLPNU",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "KMSUGAR",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "KOHINOOR",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "KNRCON",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "KKCL",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "KOPRAN",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "KOLTEPATIL",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "KOTHARIPET",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "KOTHARIPRO",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "KOKUYOCMLN",
+    "industry": "Stationary"
+  },
+  {
+    "symbol": "KOTARISUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "KPITTECH",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "KPIGREEN",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "KPRMILL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "KRBL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "KRISHANA",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "KRIDHANINF",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "KREBSBIO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "KRITI",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "KRITIKA",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "KPIL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "KRITINUT",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "KRSNAA",
+    "industry": "Healthcare Service Provider"
+  },
+  {
+    "symbol": "KSCL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "KRYSTAL",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "KSB",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "KSL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "KTKBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "KSOLVES",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "KSHITIJPOL",
+    "industry": "Stationary"
+  },
+  {
+    "symbol": "KUANTUM",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "industry": "Healthcare Service Provider"
+  },
+  {
+    "symbol": "LAL",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "LAGNAM",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "LAMBODHARA",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "LANCORHOL",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "LAKPRE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "LATTEYS",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "LASA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "LAOPALA",
+    "industry": "Glass - Consumer"
+  },
+  {
+    "symbol": "LANDMARK",
+    "industry": "Auto Dealer"
+  },
+  {
+    "symbol": "LAXMICOT",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "LATENTVIEW",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "LAURUSLABS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "LCCINFOTEC",
+    "industry": "Education"
+  },
+  {
+    "symbol": "LAXMIMACH",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "LEMONTREE",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "LFIC",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "LEXUS",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "LGHL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "LIBAS",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "LGBBROSLTD",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "LGBFORGE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "LIKHITHA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "LICI",
+    "industry": "Life Insurance"
+  },
+  {
+    "symbol": "LIBERTSHOE",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "LINC",
+    "industry": "Stationary"
+  },
+  {
+    "symbol": "LODHA",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "LOKESHMACH",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "LINCOLN",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "LLOYDSENGG",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "LOVABLE",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "LORDSCHLO",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "LPDC",
+    "industry": "Real Estate related services"
+  },
+  {
+    "symbol": "LLOYDSME",
+    "industry": "Sponge Iron"
+  },
+  {
+    "symbol": "LOTUSEYE",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "LTF",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "LOYALTEX",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "LT",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "LTFOODS",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "LUMAXIND",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "LTIM",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "LTTS",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "LUMAXTECH",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "LINDEINDIA",
+    "industry": "Industrial Gases"
+  },
+  {
+    "symbol": "LYPSAGEMS",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "LUPIN",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "LXCHEM",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "LUXIND",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "LYKALABS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "M&MFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "MAANALU",
+    "industry": "Aluminium"
+  },
+  {
+    "symbol": "MADHAV",
+    "industry": "Granites & Marbles"
+  },
+  {
+    "symbol": "MACPOWER",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "M&M",
+    "industry": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "symbol": "MADRASFERT",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "MADHUCON",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "MAGNUM",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "MAHAPEXLTD",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "MAGADSUGAR",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "MAHABANK",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "MAHEPC",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "MAHESHWARI",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "MAHLIFE",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "MAHASTEEL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "MAHSEAMLES",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "MAHSCOOTER",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "MAHLOG",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "MALLCOM",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "MAITHANALL",
+    "industry": "Ferro & Silica Manganese"
+  },
+  {
+    "symbol": "MANAKSIA",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "MALUPAPER",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "MANALIPETC",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "MANAKCOAT",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "MANAKSTEEL",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "MANAKALUCO",
+    "industry": "Aluminium"
+  },
+  {
+    "symbol": "MANGALAM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "MANINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "MANORG",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "MANGLMCEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "MANGCHEFER",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "MANINDS",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "MANYAVAR",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "MANOMAY",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "MANUGRAPH",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "MANORAMA",
+    "industry": "Other Food Products"
+  },
+  {
+    "symbol": "MAPMYINDIA",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "MANKIND",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "MARALOVER",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "MARINE",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "MARATHON",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "MARKSANS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "MARICO",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "MASTEK",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "MARSHALL",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "MASFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "MASKINVEST",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "MATRIMONY",
+    "industry": "Internet & Catalogue Retail"
+  },
+  {
+    "symbol": "MAWANASUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "MARUTI",
+    "industry": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "MAYURUNIQ",
+    "industry": "Leather And Leather Products"
+  },
+  {
+    "symbol": "MAXIND",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "MAXESTATES",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "MBLINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "MBAPL",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "MBECL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "MAZDOCK",
+    "industry": "Ship Building & Allied Services"
+  },
+  {
+    "symbol": "MAZDA",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "MCDOWELL-N",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "MCL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "MEDANTA",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "MCX",
+    "industry": "Exchange and Data Platform"
+  },
+  {
+    "symbol": "MCLEODRUSS",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "MEDICAMEQ",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "MEGASOFT",
+    "industry": "Other Telecom Services"
+  },
+  {
+    "symbol": "MEDIASSIST",
+    "industry": "Insurance Distributors"
+  },
+  {
+    "symbol": "MEDICO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "MEDPLUS",
+    "industry": "Pharmacy Retail"
+  },
+  {
+    "symbol": "METALFORGE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MEGASTAR",
+    "industry": "Other Food Products"
+  },
+  {
+    "symbol": "MENONBE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MELSTAR",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "MEP",
+    "industry": "Road Assets - Toll Annuity Hybrid-Annuity"
+  },
+  {
+    "symbol": "MFSL",
+    "industry": "Life Insurance"
+  },
+  {
+    "symbol": "METROBRAND",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "MGL",
+    "industry": "LPG/CNG/PNG/LNG Supplier"
+  },
+  {
+    "symbol": "MGEL",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "METROPOLIS",
+    "industry": "Healthcare Service Provider"
+  },
+  {
+    "symbol": "MICEL",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "MHLXMIRU",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "MIDHANI",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "MINDACORP",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MHRIL",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "MITCON",
+    "industry": "Consulting Services"
+  },
+  {
+    "symbol": "MIRZAINT",
+    "industry": "Leather And Leather Products"
+  },
+  {
+    "symbol": "MIRCELECTR",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "MMP",
+    "industry": "Aluminium"
+  },
+  {
+    "symbol": "MITTAL",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "MINDTECK",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "MMFL",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MMTC",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "MODTHREAD",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "MODIRUBBER",
+    "industry": "Tyres & Rubber Products"
+  },
+  {
+    "symbol": "MKPL",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "MOHITIND",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "MOL",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "MOIL",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "MODISONLTD",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "MONTECARLO",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "MOLDTECH",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "MOKSH",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "MOREPENLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "MONARCH",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "MOTILALOFS",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MOLDTKPAC",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "MOTOGENFIN",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "MOTISONS",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "MRF",
+    "industry": "Tyres & Rubber Products"
+  },
+  {
+    "symbol": "MPHASIS",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "MRPL",
+    "industry": "Refineries & Marketing"
+  },
+  {
+    "symbol": "MPSLTD",
+    "industry": "E-Learning"
+  },
+  {
+    "symbol": "MRO-TEK",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "MTARTECH",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "MSUMI",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MSTCLTD",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "MSPL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "MTEDUCARE",
+    "industry": "Education"
+  },
+  {
+    "symbol": "MUFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "MTNL",
+    "industry": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "symbol": "MUFTI",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "MUKANDLTD",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "MUKKA",
+    "industry": "Animal Feed"
+  },
+  {
+    "symbol": "MUKTAARTS",
+    "industry": "Film Production Distribution & Exhibition"
+  },
+  {
+    "symbol": "MURUDCERA",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "MUNJALSHOW",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MUTHOOTMF",
+    "industry": "Microfinance Institutions"
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "MUTHOOTCAP",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "MUNJALAU",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "MVGJL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "NACLIND",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "NAGREEKCAP",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "NAGAFERT",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "NAGREEKEXP",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "NAHARINDUS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "NAHARSPING",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "NAHARCAP",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "NAHARPOLY",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "NATCOPHARM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "NARMADA",
+    "industry": "Animal Feed"
+  },
+  {
+    "symbol": "NATHBIOGEN",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "NAM-INDIA",
+    "industry": "Asset Management Company"
+  },
+  {
+    "symbol": "NAVINFLUOR",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "NAVKARCORP",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "NAVA",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "industry": "Aluminium"
+  },
+  {
+    "symbol": "NAUKRI",
+    "industry": "Internet & Catalogue Retail"
+  },
+  {
+    "symbol": "NAZARA",
+    "industry": "Digital Entertainment"
+  },
+  {
+    "symbol": "NBIFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "NBCC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "NCC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "NDGL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "NCLIND",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "NDRAUTO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "NECLIFE",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "NECCLTD",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "NELCO",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "NELCAST",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "NDTV",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "NDLVENTURE",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "NDL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "NEOGEN",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "NAVNETEDUL",
+    "industry": "Printing & Publication"
+  },
+  {
+    "symbol": "NESCO",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "NEWGEN",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "NEULANDLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "NETWEB",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "NGIL",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "NEXTMEDIA",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "NETWORK18",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "NFL",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "NGLFINE",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "NHPC",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "NH",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "NIBL",
+    "industry": "Abrasives & Bearings"
+  },
+  {
+    "symbol": "NILASPACES",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "NINSYS",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "NIACL",
+    "industry": "General Insurance"
+  },
+  {
+    "symbol": "NIITMTS",
+    "industry": "Education"
+  },
+  {
+    "symbol": "NILKAMAL",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "NIITLTD",
+    "industry": "Education"
+  },
+  {
+    "symbol": "NILAINFRA",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "NIRAJ",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "NIPPOBATRY",
+    "industry": "Household Products"
+  },
+  {
+    "symbol": "NIRAJISPAT",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "NKIND",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "NMDC",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "NITIRAJ",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "NITCO",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "NITINSPIN",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "NLCINDIA",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "NOCIL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "NOIDATOLL",
+    "industry": "Road Assets - Toll Annuity Hybrid-Annuity"
+  },
+  {
+    "symbol": "NORBTEAEXP",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "NRBBEARING",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "NSIL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "NOVAAGRI",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "NTPC",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "NRL",
+    "industry": "Trading - Metals"
+  },
+  {
+    "symbol": "NSLNISP",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "NRAIL",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "NUVAMA",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "NUCLEUS",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "NURECA",
+    "industry": "Medical Equipment & Supplies"
+  },
+  {
+    "symbol": "NUVOCO",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "NYKAA",
+    "industry": "E-Retail/ E-Commerce"
+  },
+  {
+    "symbol": "OBEROIRLTY",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "OAL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "OBCL",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "OCCL",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "OFSS",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "OIL",
+    "industry": "Oil Exploration & Production"
+  },
+  {
+    "symbol": "ONELIFECAP",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "OLECTRA",
+    "industry": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "symbol": "OMAXAUTO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "OMAXE",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "OILCOUNTUB",
+    "industry": "Oil Equipment & Services"
+  },
+  {
+    "symbol": "OMKARCHEM",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "OMINFRAL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "ONEPOINT",
+    "industry": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)"
+  },
+  {
+    "symbol": "ONMOBILE",
+    "industry": "Other Telecom Services"
+  },
+  {
+    "symbol": "ONGC",
+    "industry": "Oil Exploration & Production"
+  },
+  {
+    "symbol": "ONWARDTEC",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "OPTIEMUS",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "ORBTEXP",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "ORICONENT",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "ORIENTBELL",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "ORIENTALTL",
+    "industry": "Granites & Marbles"
+  },
+  {
+    "symbol": "ORCHPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ORIENTCEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "ORIENTCER",
+    "industry": "Electrodes & Refractories"
+  },
+  {
+    "symbol": "ORIENTELEC",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "ORIENTPPR",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "ORIENTHOT",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "ORIENTLTD",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "ORISSAMINE",
+    "industry": "Industrial Minerals"
+  },
+  {
+    "symbol": "OSWALGREEN",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "OSWALSEEDS",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "OSIAHYPER",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "ORTINLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "OSWALAGRO",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "PAGEIND",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "PALASHSECU",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "PAISALO",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "PANAMAPET",
+    "industry": "Lubricants"
+  },
+  {
+    "symbol": "PAKKA",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "PALREDTEC",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "PANACHE",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "PANACEABIO",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "PANSARI",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PARACABLES",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "PARADEEP",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "PARASPETRO",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "PAR",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "PASUPTAC",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "PARSVNATH",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PARAS",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "PATANJALI",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "PARAGMILK",
+    "industry": "Dairy Products"
+  },
+  {
+    "symbol": "PARKHOTELS",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "PATELENG",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "PATINTLOG",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "PAVNAIND",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "PDSL",
+    "industry": "Trading - Textile Products"
+  },
+  {
+    "symbol": "PAYTM",
+    "industry": "Financial Technology (Fintech)"
+  },
+  {
+    "symbol": "PCJEWELLER",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "PDMJEPAPER",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "PEARLPOLY",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "PENIND",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "PCBL",
+    "industry": "Carbon Black"
+  },
+  {
+    "symbol": "PEL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "PENINLAND",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "PETRONET",
+    "industry": "LPG/CNG/PNG/LNG Supplier"
+  },
+  {
+    "symbol": "PFC",
+    "industry": "Financial Institution"
+  },
+  {
+    "symbol": "PFOCUS",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "PFIZER",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "PGHH",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "PFS",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "PGIL",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "PGEL",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "PIDILITIND",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "PGHL",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "PHOENIXLTD",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PIONEEREMB",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "PIIND",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "PILANIINVS",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "PILITA",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "PKTEA",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "PIXTRANS",
+    "industry": "Rubber"
+  },
+  {
+    "symbol": "PITTIENG",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "PIGL",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "PLASTIBLEN",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "PLATIND",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "PNBHOUSING",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "PLAZACABLE",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "PNC",
+    "industry": "Film Production Distribution & Exhibition"
+  },
+  {
+    "symbol": "PNB",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "PNBGILTS",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "PODDARHOUS",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PODDARMENT",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "POCL",
+    "industry": "Ferro & Silica Manganese"
+  },
+  {
+    "symbol": "PNCINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "POKARNA",
+    "industry": "Granites & Marbles"
+  },
+  {
+    "symbol": "POLYMED",
+    "industry": "Medical Equipment & Supplies"
+  },
+  {
+    "symbol": "POLYCAB",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "POLYPLEX",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "POLICYBZR",
+    "industry": "Financial Technology (Fintech)"
+  },
+  {
+    "symbol": "PONNIERODE",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "POWERMECH",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "POONAWALLA",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "POWERGRID",
+    "industry": "Power - Transmission"
+  },
+  {
+    "symbol": "PPL",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "PPAP",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "PPLPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "POWERINDIA",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "PRAJIND",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "PRAENG",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PRAKASH",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "PREMEXPLN",
+    "industry": "Explosives"
+  },
+  {
+    "symbol": "PRECWIRE",
+    "industry": "Aluminium Copper & Zinc Products"
+  },
+  {
+    "symbol": "PRECOT",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "PREMIERPOL",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "PRIMESECU",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "PRESTIGE",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PRAKASHSTL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "PRECAM",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "PRINCEPIPE",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "PRICOLLTD",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "PRAXIS",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "PRITI",
+    "industry": "Furniture Home Furnishing"
+  },
+  {
+    "symbol": "PRIVISCL",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "PRITIKAUTO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "PRUDENT",
+    "industry": "Financial Products Distributor"
+  },
+  {
+    "symbol": "PRSMJOHNSN",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "PSPPROJECT",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "PTC",
+    "industry": "Power Trading"
+  },
+  {
+    "symbol": "PRUDMOULI",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "PROZONER",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "PSB",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "PTCIL",
+    "industry": "Other Industrial Products"
+  },
+  {
+    "symbol": "PTL",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "PVRINOX",
+    "industry": "Film Production Distribution & Exhibition"
+  },
+  {
+    "symbol": "PUNJABCHEM",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "PYRAMID",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "PURVA",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "RACE",
+    "industry": "Waste Management"
+  },
+  {
+    "symbol": "PVSL",
+    "industry": "Auto Dealer"
+  },
+  {
+    "symbol": "PVP",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "QUICKHEAL",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "QUESS",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "RADAAN",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "RADIANTCMS",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "RADHIKAJWE",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "RAIN",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "RADICO",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "RAILTEL",
+    "industry": "Other Telecom Services"
+  },
+  {
+    "symbol": "RADIOCITY",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "RAJESHEXPO",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "RAINBOW",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "RAJMET",
+    "industry": "Aluminium Copper & Zinc Products"
+  },
+  {
+    "symbol": "RAJRILTD",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "RAJTV",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "RAMASTEEL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "RAMAPHO",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "RAMANEWS",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "RALLIS",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "RAJSREESUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "RAJRATAN",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "RAMCOCEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "RAMRAT",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "RANASUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "RAMCOIND",
+    "industry": "Other Construction Materials"
+  },
+  {
+    "symbol": "RAMKY",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "RAMCOSYS",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "RANEENGINE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "RATEGAIN",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "RANEHOLDIN",
+    "industry": "Holding Company"
+  },
+  {
+    "symbol": "RATNAVEER",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "RBA",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "RBLBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "RATNAMANI",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "RCF",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "RAYMOND",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "RECLTD",
+    "industry": "Financial Institution"
+  },
+  {
+    "symbol": "RBZJEWEL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "RCOM",
+    "industry": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "symbol": "REDINGTON",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "RBL",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "REDTAPE",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "RELIANCE",
+    "industry": "Refineries & Marketing"
+  },
+  {
+    "symbol": "RELIGARE",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "REFEX",
+    "industry": "Industrial Gases"
+  },
+  {
+    "symbol": "REMSONSIND",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "REGENCERAM",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "RELCHEMQ",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "RELAXO",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "RELINFRA",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "RENUKA",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "REPCOHOME",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "REPRO",
+    "industry": "Printing & Publication"
+  },
+  {
+    "symbol": "RGL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "REPL",
+    "industry": "Real Estate related services"
+  },
+  {
+    "symbol": "RICOAUTO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "RHFL",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "RIIL",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "RHL",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "RHIM",
+    "industry": "Electrodes & Refractories"
+  },
+  {
+    "symbol": "RISHABH",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "RESPONIND",
+    "industry": "Furniture Home Furnishing"
+  },
+  {
+    "symbol": "RITES",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "RITCO",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "RKFORGE",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "RKEC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "RKSWAMY",
+    "industry": "Advertising & Media Agencies"
+  },
+  {
+    "symbol": "ROHLTD",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "RKDL",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "ROLEXRINGS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "RML",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "ROLLT",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "ROML",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "ROSSARI",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "ROTO",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "RPGLIFE",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ROUTE",
+    "industry": "Other Telecom Services"
+  },
+  {
+    "symbol": "RPOWER",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "RPPL",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "RPSGVENT",
+    "industry": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)"
+  },
+  {
+    "symbol": "RPPINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "ROSSELLIND",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "RRKABEL",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "RPTECH",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "RSWM",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "RSSOFTWARE",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "RSYSTEMS",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "RUBYMILLS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "RTNINDIA",
+    "industry": "E-Retail/ E-Commerce"
+  },
+  {
+    "symbol": "RTNPOWER",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "RUCHINFRA",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "RUCHIRA",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "RUPA",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "RUSTOMJEE",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "RVNL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "RUSHIL",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "S&SPOWER",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "RVHL",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SADBHIN",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SABTNL",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "SAFARI",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "SADBHAV",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SABEVENTS",
+    "industry": "Electronic Media"
+  },
+  {
+    "symbol": "SADHNANIQ",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "SAGARDEEP",
+    "industry": "Aluminium Copper & Zinc Products"
+  },
+  {
+    "symbol": "SAHYADRI",
+    "industry": "Other Construction Materials"
+  },
+  {
+    "symbol": "SAGCEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "SAIL",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "SAKAR",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SAH",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "SAKHTISUG",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "SAKSOFT",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "SAKUMA",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "SALASAR",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "SAMHI",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "SALSTEEL",
+    "industry": "Sponge Iron"
+  },
+  {
+    "symbol": "SAKUMA-RE",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "SALONA",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SALZERELEC",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "SANDESH",
+    "industry": "Print Media"
+  },
+  {
+    "symbol": "SAMBHAAV",
+    "industry": "Electronic Media"
+  },
+  {
+    "symbol": "SANDHAR",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SAMPANN",
+    "industry": "Rubber"
+  },
+  {
+    "symbol": "SANDUMA",
+    "industry": "Coal"
+  },
+  {
+    "symbol": "SANGHIIND",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "SANGHVIMOV",
+    "industry": "Construction Vehicles"
+  },
+  {
+    "symbol": "SANGINITA",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "SANGAMIND",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SANOFI",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SAPPHIRE",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "SARVESHWAR",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "SARDAEN",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "SASTASUNDR",
+    "industry": "Healthcare Service Provider"
+  },
+  {
+    "symbol": "SASKEN",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "SANSERA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SAREGAMA",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "SARLAPOLY",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SATINDLTD",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SATIN",
+    "industry": "Microfinance Institutions"
+  },
+  {
+    "symbol": "SBC",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "SBGLP",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SATIA",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "SBCL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SBFC",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "SBICARD",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "SAURASHCEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "SBILIFE",
+    "industry": "Life Insurance"
+  },
+  {
+    "symbol": "SBIN",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "SCHAND",
+    "industry": "Printing & Publication"
+  },
+  {
+    "symbol": "SCHNEIDER",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "SCI",
+    "industry": "Shipping"
+  },
+  {
+    "symbol": "SCPL",
+    "industry": "Dairy Products"
+  },
+  {
+    "symbol": "SECMARK",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "SCILAL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "SCHAEFFLER",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SDBL",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "SECURKLOUD",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "SEJALLTD",
+    "industry": "Glass - Industrial"
+  },
+  {
+    "symbol": "SEAMECLTD",
+    "industry": "Shipping"
+  },
+  {
+    "symbol": "SELMC",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SECURCRED",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "SELAN",
+    "industry": "Oil Exploration & Production"
+  },
+  {
+    "symbol": "SENCO",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "SEPC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SEMAC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SEYAIND",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "SETCO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SERVOTECH",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "SEQUENT",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SGL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SFL",
+    "industry": "Furniture Home Furnishing"
+  },
+  {
+    "symbol": "SESHAPAPER",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "SHAILY",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "SGIL",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "SHAKTIPUMP",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "SHAHALLOYS",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SHAH",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SHALPAINTS",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "SHALBY",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "SHANKARA",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "SHEMAROO",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "SHILPAMED",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SHANTI",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "SHANTIGEAR",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "SHARDACROP",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "SHARDAMOTR",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SHIVAMILLS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SHAREINDIA",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "SHIVALIK",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "SHIVAMAUTO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SHK",
+    "industry": "Personal Care"
+  },
+  {
+    "symbol": "SHIVATEX",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SHREECEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "SHOPERSTOP",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "SHREDIGCEM",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "SHREEPUSHK",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "SHRENIK",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "SHREERAMA",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "SHREYANIND",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "SHRADHA",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SHREYAS",
+    "industry": "Shipping"
+  },
+  {
+    "symbol": "SHRIRAMPPS",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SHRIPISTON",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SHYAMCENT",
+    "industry": "Ferro & Silica Manganese"
+  },
+  {
+    "symbol": "SICALLOG",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "SIGIND",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "SIEMENS",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "SHYAMMETL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SIGACHI",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SIGMA",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "SHYAMTEL",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "SIGNPOST",
+    "industry": "Advertising & Media Agencies"
+  },
+  {
+    "symbol": "SIGNATURE",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SIKKO",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "SIL",
+    "industry": "Real Estate related services"
+  },
+  {
+    "symbol": "SILINV",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "SILGO",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "SILLYMONKS",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "SILVERTUC",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "SIMBHALS",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "SINCLAIR",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "SINTERCOM",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SIS",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "SIMPLEXINF",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SIYSIL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SIRCA",
+    "industry": "Paints"
+  },
+  {
+    "symbol": "SINDHUTRAD",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "SJS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SJVN",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "SKYGOLD",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "SKFINDIA",
+    "industry": "Abrasives & Bearings"
+  },
+  {
+    "symbol": "SMLISUZU",
+    "industry": "Commercial Vehicles"
+  },
+  {
+    "symbol": "SKIPPER",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "SMARTLINK",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "SKMEGGPROD",
+    "industry": "Meat Products including Poultry"
+  },
+  {
+    "symbol": "SMSPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SMSLIFE",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SMLT",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SMCGLOBAL",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "SNOWMAN",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "SOBHA",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SOFTTECH",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "SOLARA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SOLARINDS",
+    "industry": "Explosives"
+  },
+  {
+    "symbol": "SOMATEX",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SOMANYCERA",
+    "industry": "Ceramics"
+  },
+  {
+    "symbol": "SONACOMS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SOMICONVEY",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "SOTL",
+    "industry": "Lubricants"
+  },
+  {
+    "symbol": "SONAMLTD",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "SOUTHBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "SONATSOFTW",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "SPANDANA",
+    "industry": "Microfinance Institutions"
+  },
+  {
+    "symbol": "SPAL",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "SOUTHWEST",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "SPARC",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SPCENET",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "SPENCERS",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "SPECIALITY",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "SPIC",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "SPMLINFRA",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SPORTKING",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SPLIL",
+    "industry": "Trading - Textile Products"
+  },
+  {
+    "symbol": "SPLPETRO",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "SPYL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SRF",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "SREEL",
+    "industry": "Footwear"
+  },
+  {
+    "symbol": "SRGHFL",
+    "industry": "Housing Finance Company"
+  },
+  {
+    "symbol": "SRM",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SRPL",
+    "industry": "Edible Oil"
+  },
+  {
+    "symbol": "SRHHYPOLTD",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "SSWL",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "STARHEALTH",
+    "industry": "General Insurance"
+  },
+  {
+    "symbol": "STAR",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "STARCEMENT",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "STARPAPER",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "STARTECK",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "STEL",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "STEELCITY",
+    "industry": "Stockbroking & Allied"
+  },
+  {
+    "symbol": "STEELXIND",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "STLTECH",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "STERTOOLS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "STCINDIA",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "STEELCAS",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "STYLAMIND",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "STOVEKRAFT",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "STYRENIX",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "SUBROS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SUDARSCHEM",
+    "industry": "Dyes And Pigments"
+  },
+  {
+    "symbol": "SUKHJITS",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "SULA",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "SUMIT",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SUBEXLTD",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "SUMEETINDS",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SUMMITSEC",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "SUNDARAM",
+    "industry": "Stationary"
+  },
+  {
+    "symbol": "SUMICHEM",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "SUNCLAY",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "SUNDARMFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "SUNFLAG",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SUNDRMBRAK",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SUNDARMHLD",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "SUNDRMFAST",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SUNTECK",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SUPERHOUSE",
+    "industry": "Leather And Leather Products"
+  },
+  {
+    "symbol": "SUNTV",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "SUPREMEENG",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SUPREMEIND",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "SUPRAJIT",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "SUPREMEINF",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SURAJEST",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "SUPERSPIN",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SURANASOL",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "SUPRIYA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SURYALAXMI",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SURYODAY",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "SURANAT&P",
+    "industry": "Power Generation"
+  },
+  {
+    "symbol": "SUTLEJTEX",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SUVENPHAR",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "SUULD",
+    "industry": "Other Agricultural Products"
+  },
+  {
+    "symbol": "SURYAROSNI",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "SVLL",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "SUVEN",
+    "industry": "Healthcare Research Analytics & Technology"
+  },
+  {
+    "symbol": "SUZLON",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "SUVIDHAA",
+    "industry": "Financial Technology (Fintech)"
+  },
+  {
+    "symbol": "SVPGLOB",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "SYMPHONY",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "SWARAJENG",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "SWSOLAR",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "SWANENERGY",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "SYRMA",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "SWELECTES",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "SYNGENE",
+    "industry": "Healthcare Research Analytics & Technology"
+  },
+  {
+    "symbol": "SYNCOMF",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "TAJGVK",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "TAINWALCHM",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "TAKE",
+    "industry": "Healthcare Research Analytics & Technology"
+  },
+  {
+    "symbol": "TANLA",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "TALBROAUTO",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "TARC",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "TASTYBITE",
+    "industry": "Packaged Foods"
+  },
+  {
+    "symbol": "TARACHAND",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "TARAPUR",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "TARMAT",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "TARSONS",
+    "industry": "Medical Equipment & Supplies"
+  },
+  {
+    "symbol": "TATACHEM",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "TATACOMM",
+    "industry": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "TATAELXSI",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "TATAINVEST",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "TATAMTRDVR",
+    "industry": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "symbol": "TATVA",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "industry": "Iron & Steel"
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "industry": "Passenger Cars & Utility Vehicles"
+  },
+  {
+    "symbol": "TATATECH",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "TCI",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "TBZ",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "TCLCONS",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "TECHIN",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "TCPLPACK",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "TCS",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "TECHM",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "TEAMLEASE",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "TCIEXP",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "TCNSBRANDS",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "TDPOWERSYS",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "TECHNOE",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "TEGA",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "TEXMOPIPES",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "TEJASNET",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "TEXINFRA",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "TERASOFT",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "TFCILTD",
+    "industry": "Financial Institution"
+  },
+  {
+    "symbol": "TEXRAIL",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "TGBHOTELS",
+    "industry": "Hotels & Resorts"
+  },
+  {
+    "symbol": "TEMBO",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "TFL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "TECILCHEM",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "THEINVEST",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "THERMAX",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "THOMASCOOK",
+    "industry": "Tour Travel Related Services"
+  },
+  {
+    "symbol": "THYROCARE",
+    "industry": "Healthcare Service Provider"
+  },
+  {
+    "symbol": "THEJO",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "THEMISMED",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "THOMASCOTT",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "TIDEWATER",
+    "industry": "Lubricants"
+  },
+  {
+    "symbol": "THANGAMAYL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "TI",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "TIINDIA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "TIIL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "TIL-RE",
+    "industry": "Construction Vehicles"
+  },
+  {
+    "symbol": "TIJARIA",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "TIL",
+    "industry": "Construction Vehicles"
+  },
+  {
+    "symbol": "TIMESGTY",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "TIPSINDLTD",
+    "industry": "Media & Entertainment"
+  },
+  {
+    "symbol": "TIMETECHNO",
+    "industry": "Plastic Products - Industrial"
+  },
+  {
+    "symbol": "TIMKEN",
+    "industry": "Abrasives & Bearings"
+  },
+  {
+    "symbol": "TIRUPATIFL",
+    "industry": "Castings & Forgings"
+  },
+  {
+    "symbol": "TIPSFILMS",
+    "industry": "Film Production Distribution & Exhibition"
+  },
+  {
+    "symbol": "TITAGARH",
+    "industry": "Railway Wagons"
+  },
+  {
+    "symbol": "TMB",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "TITAN",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "TIRUMALCHM",
+    "industry": "Commodity Chemicals"
+  },
+  {
+    "symbol": "TNPETRO",
+    "industry": "Petrochemicals"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "TOKYOPLAST",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "TORNTPOWER",
+    "industry": "Integrated Power Utilities"
+  },
+  {
+    "symbol": "TNPL",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "TNTELE",
+    "industry": "Telecom - Equipment & Accessories"
+  },
+  {
+    "symbol": "TOTAL",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "TOUCHWOOD",
+    "industry": "Other Consumer Services"
+  },
+  {
+    "symbol": "TRACXN",
+    "industry": "Data Processing Services"
+  },
+  {
+    "symbol": "TPLPLASTEH",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "TPHQ",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "TREL",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "TRENT",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "TREEHOUSE",
+    "industry": "Education"
+  },
+  {
+    "symbol": "TRIDENT",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "TRIGYN",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "TRITURBINE",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "TRF",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "TRIL",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "TREJHARA",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "TRIVENI",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "TTL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "TTKHLTCARE",
+    "industry": "Diversified"
+  },
+  {
+    "symbol": "TTKPRESTIG",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "TTML",
+    "industry": "Telecom - Cellular & Fixed line services"
+  },
+  {
+    "symbol": "TV18BRDCST",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "TRU",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "TVSHLTD",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "TVSSCS",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "TVSELECT",
+    "industry": "Computers Hardware & Equipments"
+  },
+  {
+    "symbol": "TVSSRICHAK",
+    "industry": "Tyres & Rubber Products"
+  },
+  {
+    "symbol": "UCAL",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "TVTODAY",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "industry": "2/3 Wheelers"
+  },
+  {
+    "symbol": "UBL",
+    "industry": "Breweries & Distilleries"
+  },
+  {
+    "symbol": "UDAICEMENT",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "TVVISION",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "UDS",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "UFLEX",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "UCOBANK",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "UGROCAP",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "UGARSUGAR",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "UMANGDAIRY",
+    "industry": "Dairy Products"
+  },
+  {
+    "symbol": "UFO",
+    "industry": "Film Production Distribution & Exhibition"
+  },
+  {
+    "symbol": "UMESLTD",
+    "industry": "E-Learning"
+  },
+  {
+    "symbol": "UNICHEMLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "UJJIVANSFB",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "UJJIVAN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "UNIDT",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "UMAEXPORTS",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "UNIONBANK",
+    "industry": "Public Sector Bank"
+  },
+  {
+    "symbol": "UNIENTER",
+    "industry": "Trading - Chemicals"
+  },
+  {
+    "symbol": "UNITEDPOLY",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "UNITECH",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "UNIINFO",
+    "industry": "Other Telecom Services"
+  },
+  {
+    "symbol": "UNIVCABLES",
+    "industry": "Cables - Electricals"
+  },
+  {
+    "symbol": "UNIPARTS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "UNITEDTEA",
+    "industry": "Tea & Coffee"
+  },
+  {
+    "symbol": "UNIVASTU",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "UPL",
+    "industry": "Pesticides & Agrochemicals"
+  },
+  {
+    "symbol": "UNIVPHOTO",
+    "industry": "Household Products"
+  },
+  {
+    "symbol": "URJA",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "URAVI",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "UNOMINDA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "UTIAMC",
+    "industry": "Asset Management Company"
+  },
+  {
+    "symbol": "USHAMART",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "VAIBHAVGBL",
+    "industry": "Gems Jewellery And Watches"
+  },
+  {
+    "symbol": "VAKRANGEE",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "V2RETAIL",
+    "industry": "Speciality Retail"
+  },
+  {
+    "symbol": "UTTAMSUGAR",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "UTKARSHBNK",
+    "industry": "Other Bank"
+  },
+  {
+    "symbol": "USK",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "VBL",
+    "industry": "Other Beverages"
+  },
+  {
+    "symbol": "VAISHALI",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "VALIANTORG",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "VADILALIND",
+    "industry": "Dairy Products"
+  },
+  {
+    "symbol": "VARDHACRLC",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "VARDMNPOLY",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "VALIANTLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "VARROC",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "VASCONEQ",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "VENUSREM",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "VENKEYS",
+    "industry": "Meat Products including Poultry"
+  },
+  {
+    "symbol": "VEDL",
+    "industry": "Diversified Metals"
+  },
+  {
+    "symbol": "VERTOZ",
+    "industry": "Advertising & Media Agencies"
+  },
+  {
+    "symbol": "VENUSPIPES",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "VERANDA",
+    "industry": "E-Learning"
+  },
+  {
+    "symbol": "VASWANI",
+    "industry": "Sponge Iron"
+  },
+  {
+    "symbol": "VESUVIUS",
+    "industry": "Electrodes & Refractories"
+  },
+  {
+    "symbol": "VGUARD",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "VETO",
+    "industry": "Consumer Electronics"
+  },
+  {
+    "symbol": "VHL",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "VIDHIING",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "VIKASLIFE",
+    "industry": "Trading & Distributors"
+  },
+  {
+    "symbol": "VIJAYA",
+    "industry": "Healthcare Service Provider"
+  },
+  {
+    "symbol": "VIKASECO",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "VIJIFIN",
+    "industry": "Non Banking Financial Company (NBFC)"
+  },
+  {
+    "symbol": "VINATIORGA",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "VIMTALABS",
+    "industry": "Healthcare Research Analytics & Technology"
+  },
+  {
+    "symbol": "VINDHYATEL",
+    "industry": "Telecom - Infrastructure"
+  },
+  {
+    "symbol": "VINYLINDIA",
+    "industry": "Trading - Chemicals"
+  },
+  {
+    "symbol": "VINNY",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "VINEETLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "VIPIND",
+    "industry": "Plastic Products - Consumer"
+  },
+  {
+    "symbol": "VIPULLTD",
+    "industry": "Residential Commercial Projects"
+  },
+  {
+    "symbol": "VIPCLOTHNG",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "VISHNU",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "VIRINCHI",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "VISAKAIND",
+    "industry": "Cement & Cement Products"
+  },
+  {
+    "symbol": "VLEGOV",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "VMART",
+    "industry": "Diversified Retail"
+  },
+  {
+    "symbol": "VLSFINANCE",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "VOLTAMP",
+    "industry": "Heavy Electrical Equipment"
+  },
+  {
+    "symbol": "VISHWARAJ",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "VOLTAS",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "VPRPL",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "VRLLOG",
+    "industry": "Logistics Solution Provider"
+  },
+  {
+    "symbol": "VSTL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "VSTIND",
+    "industry": "Cigarettes & Tobacco Products"
+  },
+  {
+    "symbol": "VIVIDHA",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "VSTTILLERS",
+    "industry": "Tractors"
+  },
+  {
+    "symbol": "VSSL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "VTL",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "WABAG",
+    "industry": "Water Supply & Management"
+  },
+  {
+    "symbol": "WANBURY",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "WALCHANNAG",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "WEALTH",
+    "industry": "Other Financial Services"
+  },
+  {
+    "symbol": "WEIZMANIND",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "WEBELSOLAR",
+    "industry": "Other Electrical Equipment"
+  },
+  {
+    "symbol": "WEL",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "WELENT",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "WELINV",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "WELCORP",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "WELSPUNLIV",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "WENDT",
+    "industry": "Abrasives & Bearings"
+  },
+  {
+    "symbol": "WHEELS",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "WILLAMAGOR",
+    "industry": "Investment Company"
+  },
+  {
+    "symbol": "WHIRLPOOL",
+    "industry": "Household Appliances"
+  },
+  {
+    "symbol": "WESTLIFE",
+    "industry": "Restaurants"
+  },
+  {
+    "symbol": "WEWIN",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "WINDLAS",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "WINDMACHIN",
+    "industry": "Industrial Products"
+  },
+  {
+    "symbol": "WIPRO",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "WIPL",
+    "industry": "Plywood Boards/ Laminates"
+  },
+  {
+    "symbol": "WINSOME",
+    "industry": "Other Textile Products"
+  },
+  {
+    "symbol": "WOCKPHARMA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "WSI",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "WORTH",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "WONDERLA",
+    "industry": "Amusement Parks/ Other Recreation"
+  },
+  {
+    "symbol": "WSTCSTPAPR",
+    "industry": "Paper & Paper Products"
+  },
+  {
+    "symbol": "XCHANGING",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "XELPMOC",
+    "industry": "Software Products"
+  },
+  {
+    "symbol": "YASHO",
+    "industry": "Specialty Chemicals"
+  },
+  {
+    "symbol": "YATRA",
+    "industry": "Tour Travel Related Services"
+  },
+  {
+    "symbol": "YATHARTH",
+    "industry": "Hospital"
+  },
+  {
+    "symbol": "YUKEN",
+    "industry": "Compressors Pumps & Diesel Engines"
+  },
+  {
+    "symbol": "XPROINDIA",
+    "industry": "Packaging"
+  },
+  {
+    "symbol": "YAARI",
+    "industry": "Diversified Commercial Services"
+  },
+  {
+    "symbol": "YESBANK",
+    "industry": "Private Sector Bank"
+  },
+  {
+    "symbol": "ZAGGLE",
+    "industry": "IT Enabled Services"
+  },
+  {
+    "symbol": "ZEEL",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "ZENITHSTL",
+    "industry": "Iron & Steel Products"
+  },
+  {
+    "symbol": "ZEEMEDIA",
+    "industry": "TV Broadcasting & Software Production"
+  },
+  {
+    "symbol": "ZENSARTECH",
+    "industry": "Computers - Software & Consulting"
+  },
+  {
+    "symbol": "ZFCVINDIA",
+    "industry": "Auto Components & Equipments"
+  },
+  {
+    "symbol": "ZIMLAB",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ZENITHEXPO",
+    "industry": "Leather And Leather Products"
+  },
+  {
+    "symbol": "ZENTEC",
+    "industry": "Aerospace & Defense"
+  },
+  {
+    "symbol": "ZODIAC",
+    "industry": "Civil Construction"
+  },
+  {
+    "symbol": "ZODIACLOTH",
+    "industry": "Garments & Apparels"
+  },
+  {
+    "symbol": "ZUARI",
+    "industry": "Fertilizers"
+  },
+  {
+    "symbol": "ZEELEARN",
+    "industry": "Education"
+  },
+  {
+    "symbol": "ZOMATO",
+    "industry": "E-Retail/ E-Commerce"
+  },
+  {
+    "symbol": "ZOTA",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ZUARIIND",
+    "industry": "Sugar"
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "industry": "Pharmaceuticals"
+  },
+  {
+    "symbol": "ZYDUSWELL",
+    "industry": "Packaged Foods"
+  }
+]

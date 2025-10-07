@@ -1,0 +1,71 @@
+const mongoose = require('mongoose');
+
+const userSchema=new mongoose.Schema({
+    firstName:{
+        type:String,
+        required:true,
+        trim:true,
+    },
+    lastName:{
+        type:String,
+        required:true,
+        trim:true,
+    },
+    emailID:{
+        type:String,
+        required:true,
+        trim:true,
+    },
+    password:{
+        type:String,
+        required:true,
+    },
+    additionalDetails:{
+        type:mongoose.Schema.Types.ObjectId,
+        ref:"Profile",
+        required:true,
+    },
+    image:{
+        type:String,
+        required:true,
+    },
+    token:{
+        type:String,
+    },
+    expirationTime:{
+        type:Date,
+    },
+    portfolio:[{
+        type:mongoose.Schema.Types.ObjectId,
+        ref:'Stock'
+    }],
+    watchList:[{
+        type:String,
+    }],
+    walletBalance:{
+        type:Number,
+        default:1000000
+    },
+    portfolioBalance:{
+        type:Number,
+        default:0
+    },
+    boughtAmt:{
+        type:Number,
+        default:0
+    },
+    createdAt:{
+        type:Date,
+        default:Date.now,
+    },
+    transactions:[{
+        type:mongoose.Schema.Types.ObjectId,
+        ref:'Transaction'
+    }],
+    portfolioGraph:[{
+        type:mongoose.Schema.Types.ObjectId,
+        ref:'PortfolioGraphReading'
+    }]
+});
+
+module.exports=mongoose.model("User",userSchema);
