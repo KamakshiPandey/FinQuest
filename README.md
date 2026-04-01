@@ -22,6 +22,7 @@ Client (React) → Backend (Node.js + Express) → Database (MongoDB)
 ---
 
 ## 📁 Folder Structure
+---
 FinQuest/
 │
 ├── client/ # Frontend (React)
@@ -44,7 +45,7 @@ FinQuest/
 ├── .env
 ├── package.json
 └── README.md
-
+---
 
 ---
 
