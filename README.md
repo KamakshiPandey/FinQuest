@@ -89,3 +89,30 @@ FinQuest/
 ---
 
 ## ⚙️ API Endpoints (Sample)
+```
+POST /api/auth/register
+POST /api/auth/login
+GET /api/user/profile
+POST /api/quiz/submit
+GET /api/progress
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```
+git clone https://github.com/KamakshiPandey/FinQuest.git
+
+cd FinQuest
+```
+
+### 2. Install Dependencies
+
+#### Backend
+```
+cd server
+npm install
+```
+
